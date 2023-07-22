@@ -1,0 +1,14 @@
+{
+  "name": "slot-machine-project",
+  "version": "1.0.0",
+  "description": "1. Allow the user to deposit money\r 2. Determine number of lines the user wants to bet on\r 3. Collect the user's bet amount\r 4. Spin the slot machine\r 5. Check if the user has won/lost\r 6. Give the user their winnings or take their bet\r 7. Retry or handle other situations",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}
